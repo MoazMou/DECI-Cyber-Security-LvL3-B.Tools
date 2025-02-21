@@ -1,0 +1,8 @@
+colorama
+hashlib
+schedule
+pandas
+email
+pywin32
+cryptography
+pyfiglet
