@@ -6,4 +6,3 @@ These are some Blue Team tools I have created using Python for cybersecurity. Ju
 ```bash
 pip install -r requirements.txt
 ```
-<a href="https://www.facebook.com/moaz.mourad.79/">Facebook Account</a>
